@@ -1,2 +1,4 @@
-1 3 4 7 9
-2 3 7 10 11
+South 19
+North 15
+West 2
+East 60
